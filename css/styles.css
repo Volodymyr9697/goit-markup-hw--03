@@ -297,8 +297,11 @@ font-weight: 500;
 
 .logo-part-footer {
     color: #f4f4fd;
-    display: inline-block;
-        margin-bottom: 16px;
+
+}
+.logo-footer{
+        display: inline-block;
+            margin-bottom: 16px;
 }
 .down{
     background-color: #2e2f42;
